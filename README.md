@@ -19,7 +19,7 @@ Have a look at the [step by step guide](https://github.com/orlando-c-h).
 
 ```bash
 # clone the repo
-git clone https://github.com/orlando1409/ng-to-do-app.git
+git clone https://github.com/orlando-c-h/angular-to-do-app-from-scratch.git
 
 # change directory to repo
 cd ng-to-do-app
