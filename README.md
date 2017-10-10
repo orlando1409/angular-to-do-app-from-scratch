@@ -13,7 +13,7 @@ This app manages to-dos. Using the app, the user can list, add, edit and remove 
 
 ### Building the app from scratch
 
-Have a look at the [step by step guide](https://github.com/orlando1409).
+Have a look at the [step by step guide](https://github.com/orlando-c-h).
 
 ### Quick start
 
